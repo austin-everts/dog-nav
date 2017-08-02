@@ -5,5 +5,5 @@ String.prototype.toProperCase = function () {
 };
 
 jQuery(document).ready(function () {
-    getAllBreeds();
+    setUpDogs();
 });
